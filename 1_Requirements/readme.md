@@ -6,8 +6,6 @@ CALENDAR SYSTEM USING C - By Kushla Devi
 - Laptop with Windows
 - C compiler
 
-**Design &amp; Implementation**
-
 **Calendars**** -**Calendars have existed for thousands of years and have gone through several reforms until finally arriving at the currently widely used version, known as the Gregorian calendar. It is a solar calendar, meaning that it is based on the Earth&#39;s revolution around the Sun. Despite its seeming simplicity and ease-of-use, the rules which lay the foundation for the Gregorian calendar and its predecessors result in some complications. A year is not an exact integer of days, despite being presented as such. That is why certain years have a &quot;leap day&quot;, an additional day in the year, to compensate for the inaccuracy.
 
 **About Calendar in C:** Basically three operations can be done in this calendar application. To find out the day corresponding to a given date, the date, month and year are asked. You can list the days and dates of any month of any year. For example, entering 04 2014 (April 2014) will give you an output as shown in the screenshot in this post.
